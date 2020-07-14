@@ -3,7 +3,7 @@ Search if a entered word is present in multiple websites/webpages.
 
 ## Need
 
-I had to write an examination. Since a selected students were there in the exam and we were unknow to each other, and my Prof didn't have the deails with him, i wrote this script.
+I had to write an examination. Since a selected students were there in the exam and we were unknow to each other, and my Prof didn't have the details with him, i wrote this script.
 
 ## Allowed
 
